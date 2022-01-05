@@ -1,0 +1,16 @@
+.programmingHero{
+
+    display: flex;
+    margin: 10px;
+    margin-top: 10%;
+
+}
+.person01{
+    
+    width: 50%;
+    margin-left: 10%;
+}
+.person01 img{
+    width: 50%;
+    margin-left: 10px;
+}
