@@ -3,7 +3,13 @@
     display: flex;
     margin: 10px;
     margin-top: 10%;
+    
 
+}
+.left-line{
+    border-left: 3px solid red;
+    padding-left: 10px;
+    font-size: 28px;
 }
 .mission{
     color: orange;
@@ -14,20 +20,56 @@
     margin-left: 10%;
     
 }
-.mission-vission-goal{
+
+#my-mission-part{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#mission-part{
     width: 30%;
-    margin: 5%;
+    margin: 2%;
     border: 2px ;
-    background-color: rgb(202, 179, 199);
-    padding: 5px;
+    background-color: rgb(200, 228, 236);
+    padding: 15px;
     border-radius: 10px;
 
 }      
 
-.mission-vission-goal img{
-    width: 50%;
+#mission-part img{
+    width: 30%;
     margin-left: 10px;
-    margin-left: 0px;
+    
+}
+
+#vission-part{
+    width: 30%;
+    margin: 2%;
+    border: 2px ;
+    padding: 15px;
+    background-color: rgb(233, 215, 229);
+    
+    border-radius: 10px;
+}
+#vission-part img{
+    width: 30%;
+    margin-left: 10px;
+    
+}
+#goal-part{
+    width: 30%;
+    margin: 2%;
+    border: 2px ;
+    padding: 15px;
+    background-color: rgb(206, 185, 201);
+    
+    border-radius: 10px;
+}
+#goal-part img{
+    width: 30%;
+    margin-left: 10px;
+    
 }
 .button{
     
@@ -48,24 +90,42 @@
 .text-center{
      text-align: center;
      margin-top: 80px;
+     font-size: 28px;
 }
 .develop{
     display: flex;
     margin: 10px;
     margin-top: 10%;
+    
+    
+    
+}
+.develop-text{
+    margin-right: 120px;
 }
 .develop img{
-    width: 50%;
-    margin-left: 10px;
+    width: 70%;
+    margin-left: 120px;
+}
+#global-part{
+    display: flex;
+    margin: 10px;
+    margin-top: 10%;
+    
 }
 .global{
     width: 50%;
-    margin-left: 10px;
+    
+    margin-left: 120px;
+    
     
 }
+ 
+
  .global img{
-         width: 50%;
-         margin-left: 10px;
+         width: 70%;
+         margin-right: 150px;
+        
          
 }
 .footer-part{
