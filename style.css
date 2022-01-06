@@ -58,6 +58,16 @@
     width: 50%;
     margin-left: 10px;
 }
+.global{
+    width: 50%;
+    margin-left: 10px;
+    
+}
+ .global img{
+         width: 50%;
+         margin-left: 10px;
+         
+}
 .footer-part{
     text-align: center;
     background-color: black;
