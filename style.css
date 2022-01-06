@@ -5,12 +5,63 @@
     margin-top: 10%;
 
 }
+.mission{
+    color: orange;
+}
 .person01{
     
     width: 50%;
     margin-left: 10%;
+    
 }
+.mission-vission-goal{
+    width: 30%;
+    margin: 5%;
+    border: 2px ;
+    background-color: rgb(202, 179, 199);
+    padding: 5px;
+    border-radius: 10px;
+
+}      
+
+.mission-vission-goal img{
+    width: 50%;
+    margin-left: 10px;
+    margin-left: 0px;
+}
+.button{
+    
+    text-decoration: none;
+    border: 10px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    
+}
+
+
 .person01 img{
     width: 50%;
     margin-left: 10px;
+}
+
+.text-center{
+     text-align: center;
+     margin-top: 80px;
+}
+.develop{
+    display: flex;
+    margin: 10px;
+    margin-top: 10%;
+}
+.develop img{
+    width: 50%;
+    margin-left: 10px;
+}
+.footer-part{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 150px;
+    padding-top: 10px;
 }
